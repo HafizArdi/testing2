@@ -10,3 +10,5 @@ http://localhost:8000/admin/history
 
 composer install/update
 php artisan sweetalert:publish
+
+database ada di luar folder "approval.sql"
